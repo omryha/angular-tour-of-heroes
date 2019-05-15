@@ -31,3 +31,11 @@ button.clear {
     color: #888;
     margin-bottom: 12px;
 }
+.app-message {
+    background-color: rgba(0,0,0,.3);
+    color: darkred;
+    border: 1px solid white;
+    display: flex;
+    width: 25%;
+    flex-direction: column;
+}
